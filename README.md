@@ -13,9 +13,7 @@ Hi! I'm **Umair Hayat**, a dedicated **DevOps Engineer** with a passion for seam
 - **Version Control**: Git, GitHub
 - **Automation**: Ansible, Bash scripting
 - **Monitoring**: Grafana, Prometheus
-
----
-
+----------------------------------------------
 ## 📂 **Projects**
 ### 🚀 **DevOps Pipeline for Automation**
 - **Description**: Created a fully automated CI/CD pipeline using Jenkins, Docker, and Kubernetes.
